@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Trial Review System",
+  "description": "Synthetic clinical trial safety, compliance, and data-quality monitoring system with a six-node workflow, Knowledge Graph, and Human Gate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
